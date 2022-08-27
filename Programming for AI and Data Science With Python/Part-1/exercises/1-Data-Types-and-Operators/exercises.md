@@ -1,12 +1,62 @@
 ## Data Types and Operators
 
-###  arithmetic operators
 
->1. Play around with a few complex expressions, such as x = 2 + 4 * 5 – 6 / 3. Use parentheses to group the numbers in different ways and see how the result changes compared with the original ungrouped expression.
 
->2. 
+>1. Play around with a few complex expressions, such as $x = 2 + 4 * 5 – 6 / 3$. Use parentheses to group the numbers in different ways and see how the result changes compared with the original ungrouped expression.
 
-### variables and assignment
+>2. Assign the number 11 to a variable called my_fav_number .
+
+>3. Assign the string 'Python' to a variable called my_fav_ord .
+
+>4. Assign the string 'Lee' to a variable called user_name and use the print() function to print the value of user_name. After printing the value of userName , update user_name to 'James' and print it again.
+
+>5. Assign the values 12 and 5 to two variables a and b respectively.Find the sum and product of `a` and `b` and assign the results to another two variables called sum and product respectively. Find the remainder when a is divided by b and assign the result to a variable called remainder. Print the values of sum , product and remainder .
+
+>6. Assign the values 13 , 7 and 5 to three variables `a `, `b` and `c` respectively. Use the variables to evaluate the mathematical expression below:
+$$(13 + 5)*7 + 5 – 13 $$
+
+>7. How many seconds are there in 42 minutes 42 seconds?
+
+>8. How many miles are there in 10 kilometers? Hint: there are 1.61 kilometers in a mile.
+
+>9. If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?
+
+>10. Determine the output of the following program without running the code:
+s = 12 
+s = s - 3
+print(s)
+
+>11. Determine the output of the following program without running the code:
+t = 10 
+t = t + 1 
+t = t*2
+t = t/5 
+print(t)
+
+>12. Determine the output of the following program without running the code:
+p, q = 12, 4 
+p += 3 
+print(p) 
+q **= 2 
+print(q)
+
+>13. Assign the values 11 and 7 to two variables r and s respectively. Add r to s and assign the result back to r . Print the values of r and s .
+
+>14. Think of an integer and assign it to a variable. Perform the following steps on the variable:
+Add 17 to it.
+Double the result.
+Subtract 4 from the result.
+Double the result again.
+Add 20 to the result.
+Divide the result by 4.
+Subtract 20 from the result.
+Each step involves operating on the result from the previous step and assigning the new result back to the variable.
+Print the final answer. What number do you get?
+
+
+
+
+
 >1. creates a variable named x and stores 5 in it
 
 
@@ -16,9 +66,19 @@
 
 
 
->3. Given that y = ax 3 + 7
+>3. Given that $y = ax 3 + 7$
 
 
+>Determine the output of the following program without running the code:
+name1 = 'Jamie'
+print(name1)
+name2 = 'Aaron'.upper()
+print(name2)
+message = 'The names are %s and %s.' %(name1, name2)
+print(message)
+
+
+>Assign the strings 'Python' , 'Java' and 'C#' to three variables lang1 , lang2 and lang3 respectively. Use the three variables and the % operator to generate the following strings: The most popular programming languages are Python Java and C#.
 
 
 >4. display the string, using the print() function.  “ Rock a by baby,\n\ton the tree top,\t\when the wind blows\n\t\t\t the cradle will drop. ” 
@@ -26,14 +86,14 @@
 
 
 
->5. calculates the average of x = 3 and y = 5, leaving the result in the variable z
+>5. calculates the average of $x = 3$ and $y = 5$, leaving the result in the variable $z$
 
 
 
 
 
 
->6. The volume of a sphere with radius r is 43πr^3 What is the volume of a sphere with radius 5
+>6. The volume of a sphere with radius r is $\frac{4}{3}πr^3$ What is the volume of a sphere with radius 5
 
 
 
@@ -67,9 +127,5 @@
  >14. Write a program that reads a positive integer, n, from the user and then displays the sum of all of the integers from 1 to n. The sum of the first n positive integers can be computed using the formula: $$sum = \frac{(n)*(n+1)}{2}$$
 
  
-
-
-
-
 
 
