@@ -58,9 +58,9 @@ Subtract `20` from the result.
 Each step involves operating on the result from the previous step and assigning the new result back to the variable.
 Print the final answer. What number do you get?
 
-13. creates a variable named x and stores 5 in it
+13. creates a variable named `x` and stores `5` in it
 
-14. computes the value of one plus x squared and stores it in a new variable named y.
+14. computes the value of one plus `x` squared and stores it in a new variable named `y`.
 
 15. Given that `y = ax 3 + 7`
 
