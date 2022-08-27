@@ -100,8 +100,8 @@ print(message1)
 print(message2)
 ```
 
-20. Assign the strings 'Aaron' , 'Beck' and 'Carol' to three variables student1 , student2 and student3 respectively.
-Use the three variables and the format() method to generate the following string:
+20. Assign the strings 'Aaron' , 'Beck' and 'Carol' to three variables `student1` , `student2` and `student3` respectively.
+Use the three variables and the `format()` method to generate the following string:
 My best friends are Aaron, Beck and Carol.
 Assign the new string to a variable called message and print the value of message .
 
@@ -119,25 +119,25 @@ print(message1)
 print(message2)
 ```
 
-23. Assign the values 111 and 13 to two variables p and q respectively.
-Divide p by q and assign the result to a variable called result .
-Use the three variables and the % operator to generate the following string:
-The result of 111 divided by 13 is 8.538, correct to 3 decimal places.
-Assign the string to a variable called message and print the value of message .
+23. Assign the values `111` and `13` to two variables `p` and `q` respectively.
+Divide `p` by `q` and assign the result to a variable called result .
+Use the three variables and the `%` operator to generate the following string:
+The result of 111 divided by `13` is `8.538`, correct to `3` decimal places.
+Assign the string to a variable called message and print the value of message.
 
 
-24. Assign the strings 'Python' , 'Java' and 'C#' to three variables lang1 , lang2 and lang3 respectively. Use the three variables and the % operator to generate the following strings: The most popular programming languages are Python Java and C#.
+24. Assign the strings 'Python' , 'Java' and 'C#' to three variables `lang1` , `lang2` and `lang3` respectively. Use the three variables and the `%` operator to generate the following strings: The most popular programming languages are Python Java and C#.
 
-25. Assign the values 12 and 7 to two variables x and y respectively.
-Divide x by y and assign the result to a variable called quotient .
-Use the format() method and the variables x , y and quotient to generate the following string:
-The result of 12 divided by 7 is 1.7143, correct to 4 decimal places.
+25. Assign the values `12` and `7` to two variables `x` and `y` respectively.
+Divide `x` by `y` and assign the result to a variable called quotient.
+Use the `format()` method and the variables `x` , `y` and quotient to generate the following string:
+The result of `12` divided by `7` is `1.7143`, correct to `4` decimal places.
 
-26. Assign the string to a variable called message and print the value of message .
+26. Assign the string to a variable called message and print the value of message.
 
-27. Assign the value 2.7123 to a variable called number . Cast number into an integer and assign it back to number . Print the value of number .
+27. Assign the value `2.7123` to a variable called number. Cast number into an integer and assign it back to number. Print the value of number.
 
-28. Assign the `string '12'` to a variable called user_input . Cast userInput into an integer and assign it back to userInput . Print the value of user_input .
+28. Assign the string `'12'` to a variable called user_input . Cast userInput into an integer and assign it back to userInput . Print the value of user_input .
 
 29. display the string, using the print() function. ` “ Rock a by baby,\n\ton the tree top,\t\when the wind blows\n\t\t\t the cradle will drop. ” `
 
