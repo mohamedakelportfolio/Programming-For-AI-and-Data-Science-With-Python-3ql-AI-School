@@ -13,7 +13,8 @@
 5. Assign the values 12 and 5 to two variables a and b respectively.Find the sum and product of `a` and `b` and assign the results to another two variables called sum and product respectively. Find the remainder when a is divided by b and assign the result to a variable called remainder. Print the values of sum , product and remainder .
 
 6. Assign the values 13 , 7 and 5 to three variables `a `, `b` and `c` respectively. Use the variables to evaluate the mathematical expression below:
-(13 + 5)*7 + 5 – 13 
+
+<p>$$(13 + 5)*7 + 5 – 13$$</p>
 
 7. How many seconds are there in 42 minutes 42 seconds?
 
@@ -22,24 +23,27 @@
 9. If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?
 
 10. Determine the output of the following program without running the code:
-```s = 12 
+
+```
+s = 12 
 s = s - 3
-print(s)```
+print(s)
 
 
 
-```t = 10 
+t = 10 
 t = t + 1 
 t = t*2
 t = t/5 
-print(t)```
+print(t)
 
 
-```p, q = 12, 4 
+p, q = 12, 4 
 p += 3 
 print(p) 
 q **= 2 
-print(q)```
+print(q)
+```
 
 13. Assign the values 11 and 7 to two variables r and s respectively. Add r to s and assign the result back to r . Print the values of r and s .
 
