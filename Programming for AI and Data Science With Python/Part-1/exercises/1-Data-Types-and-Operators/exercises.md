@@ -1,13 +1,13 @@
 ## Data Types and Operators
 
 
-1. Play around with a few complex expressions, such as $x = 2 + 4 * 5 – 6 / 3$. Use parentheses to group the numbers in different ways and see how the result changes compared with the original ungrouped expression.
+1. Play around with a few complex expressions, such as `x = 2 + 4 * 5 – 6 / 3`. Use parentheses to group the numbers in different ways and see how the result changes compared with the original ungrouped expression.
 
 2. Assign the number 11 to a variable called my_fav_number .
 
-3. Assign the string 'Python' to a variable called my_fav_ord .
+3. Assign the string 'Python' to a variable called my_fav_ord.
 
-4. Assign the string 'Lee' to a variable called user_name and use the print() function to print the value of user_name. After printing the value of userName , update user_name to 'James' and print it again.
+4. Assign the string 'Lee' to a variable called user_name and use the `print()` function to print the value of user_name. After printing the value of user_name , update user_name to 'James' and print it again.
 
 5. Assign the values 12 and 5 to two variables a and b respectively.Find the sum and product of `a` and `b` and assign the results to another two variables called sum and product respectively. Find the remainder when a is divided by b and assign the result to a variable called remainder. Print the values of sum , product and remainder .
 
@@ -166,7 +166,7 @@ The result of `12` divided by `7` is `1.7143`, correct to `4` decimal places.
 
 38. The program that you create for this exercise will begin by reading the cost of a meal ordered at a restaurant from the user. Then your program will compute the tax and tip for the meal. Use your local tax rate when computing the amount of tax owing. Compute the tip as 18 percent of the meal amount (without the tax). The output from your program should include the tax amount, the tip amount, and the grand total for the meal including both the tax and the tip. Format the output so that all of the values are displayed using two decimal places.
 
-39. Write a program that reads a positive integer, `n`, from the user and then displays the `sum` of all of the integers from 1 to n. The sum of the first n positive integers can be computed using the formula: `$$sum = \frac{(n)*(n+1)}{2}$$`
+39. Write a program that reads a positive integer, `n`, from the user and then displays the `sum` of all of the integers from 1 to n. The sum of the first n positive integers can be computed using the formula: <p>`$$sum = \frac{(n)*(n+1)}{2}$$`</p>
 
 40. What is the output of the following code:
 ```
