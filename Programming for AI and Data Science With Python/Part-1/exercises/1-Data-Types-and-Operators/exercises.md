@@ -15,6 +15,7 @@
 6. Assign the values 13 , 7 and 5 to three variables `a `, `b` and `c` respectively. Use the variables to evaluate the mathematical expression below:
 
 <p>$$(13 + 5)*7 + 5 – 13$$</p>
+<br/>
 
 7. How many seconds are there in 42 minutes 42 seconds?
 
@@ -75,38 +76,48 @@ Print the final answer. What number do you get?
 
 
 18. Determine the output of the following program without running the code:
-```name1 = 'Jamie'
+```
+name1 = 'Jamie'
 print(name1)
 name2 = 'Aaron'.upper()
 print(name2)
 message = 'The names are %s and %s.' %(name1, name2)
-print(message)```
+print(message)
+```
 
 
 19. Determine the output of the following program without running the code:
-```num = 12
+```
+num = 12
 message = '%d' %(num)
 print(message)
 message = '%4d' %(num)
-print(message) ```
+print(message) 
+```
 
 20. Determine the output of the following program without running the code:
-```decnum = 1.72498329745
+```
+decnum = 1.72498329745
 message = '%5.3f' %(decnum)
 print(message)
 message = '%7.2f' %(decnum)
-print(message)```
+print(message)
+```
 
-21. Assign the strings 'Aaron' , 'Beck' and 'Carol' to three variables student1 , student2 and student3 respectively.
+21. Determine the output of the following program without running the code:
+```
+message1 = '{:7.2f} and {:d}'.format(21.3124, 12)
+message2 = '{1} and {0}'.format(21.3124, 12)
+print(message1)
+print(message2)
+```
+
+
+22. Assign the strings 'Aaron' , 'Beck' and 'Carol' to three variables student1 , student2 and student3 respectively.
 Use the three variables and the format() method to generate the following string:
 My best friends are Aaron, Beck and Carol.
 Assign the new string to a variable called message and print the value of message .
 
-22. Determine the output of the following program without running the code:
-```message1 = '{:7.2f} and {:d}'.format(21.3124, 12)
-message2 = '{1} and {0}'.format(21.3124, 12)
-print(message1)
-print(message2)```
 
 
 23. Assign the values 111 and 13 to two variables p and q respectively.
