@@ -13,7 +13,7 @@
 5. Assign the values 12 and 5 to two variables a and b respectively.Find the sum and product of `a` and `b` and assign the results to another two variables called sum and product respectively. Find the remainder when a is divided by b and assign the result to a variable called remainder. Print the values of sum , product and remainder .
 
 6. Assign the values 13 , 7 and 5 to three variables `a `, `b` and `c` respectively. Use the variables to evaluate the mathematical expression below:
-$(13 + 5)*7 + 5 – 13 $
+(13 + 5)*7 + 5 – 13 
 
 7. How many seconds are there in 42 minutes 42 seconds?
 
@@ -26,14 +26,15 @@ $(13 + 5)*7 + 5 – 13 $
 s = s - 3
 print(s)```
 
-11. Determine the output of the following program without running the code:
+
+
 ```t = 10 
 t = t + 1 
 t = t*2
 t = t/5 
 print(t)```
 
-12. Determine the output of the following program without running the code:
+
 ```p, q = 12, 4 
 p += 3 
 print(p) 
