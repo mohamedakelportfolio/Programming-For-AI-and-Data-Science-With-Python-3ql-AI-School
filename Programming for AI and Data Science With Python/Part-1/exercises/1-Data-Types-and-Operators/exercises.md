@@ -45,7 +45,7 @@ q **= 2
 print(q)
 ```
 
-11. Assign the values 11 and 7 to two variables r and s respectively. Add r to s and assign the result back to r . Print the values of r and s .
+11. Assign the values `11` and `7` to two variables `r` and `s` respectively. Add `r` to `s` and assign the result back to `r` . Print the values of `r` and `s`.
 
 12. Think of an integer and assign it to a variable. Perform the following steps on the variable:
 Add 17 to it.
