@@ -16,11 +16,11 @@
 <p>$$(13 + 5)*7 + 5 – 13$$</p>
 <br/>
 
-7. How many seconds are there in 42 minutes 42 seconds?
+7. How many seconds are there in `42` minutes `42` seconds?
 
-8. How many miles are there in 10 kilometers? Hint: there are 1.61 kilometers in a mile.
+8. How many miles are there in `10` kilometers? Hint: there are `1.61` kilometers in a mile.
 
-9. If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?
+9. If you run a `10` kilometer race in `42` minutes `42` seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?
 
 10. Determine the output of the following program without running the code:
 
