@@ -62,7 +62,7 @@ Print the final answer. What number do you get?
 
 14. computes the value of one plus x squared and stores it in a new variable named y.
 
-15. Given that $y = ax 3 + 7$
+15. Given that y = ax 3 + 7
 
 16. Determine the output of the following program without running the code:
 ```
