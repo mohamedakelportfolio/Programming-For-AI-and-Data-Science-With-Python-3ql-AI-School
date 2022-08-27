@@ -48,13 +48,13 @@ print(q)
 11. Assign the values `11` and `7` to two variables `r` and `s` respectively. Add `r` to `s` and assign the result back to `r` . Print the values of `r` and `s`.
 
 12. Think of an integer and assign it to a variable. Perform the following steps on the variable:
-Add 17 to it.
+Add `17` to it.
 Double the result.
-Subtract 4 from the result.
+Subtract `4` from the result.
 Double the result again.
-Add 20 to the result.
-Divide the result by 4.
-Subtract 20 from the result.
+Add `20` to the result.
+Divide the result by `4`.
+Subtract `20` from the result.
 Each step involves operating on the result from the previous step and assigning the new result back to the variable.
 Print the final answer. What number do you get?
 
@@ -62,7 +62,7 @@ Print the final answer. What number do you get?
 
 14. computes the value of one plus x squared and stores it in a new variable named y.
 
-15. Given that y = ax 3 + 7
+15. Given that `y = ax 3 + 7`
 
 16. Determine the output of the following program without running the code:
 ```
