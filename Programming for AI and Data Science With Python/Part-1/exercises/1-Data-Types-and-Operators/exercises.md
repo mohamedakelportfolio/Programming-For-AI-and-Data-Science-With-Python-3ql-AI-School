@@ -161,7 +161,7 @@ The result of `12` divided by `7` is `1.7143`, correct to `4` decimal places.
 36. Create a program that reads the length and width of a farmer’s field from the user in feet. Display the area of the field in acres. Hint: There are `43,560` square feet in an acre.
 
 
-37. In many jurisdictions a small deposit is added to drink containers to encourage people to recycle them. In one particular jurisdiction, drink containers holding one liter or less have a `\$0.10` deposit, and drink containers holding more than one liter have a `\$0.25` deposit. Write a program that reads the number of containers of each size from the user. Your program should continue by computing and displaying the refund that will be received for returning those containers. Format the output so that it includes a dollar sign and two digits to the right of the decimal point.
+37. In many jurisdictions a small deposit is added to drink containers to encourage people to recycle them. In one particular jurisdiction, drink containers holding one liter or less have a `$0.10` deposit, and drink containers holding more than one liter have a `$0.25` deposit. Write a program that reads the number of containers of each size from the user. Your program should continue by computing and displaying the refund that will be received for returning those containers. Format the output so that it includes a dollar sign and two digits to the right of the decimal point.
 
 
 38. The program that you create for this exercise will begin by reading the cost of a meal ordered at a restaurant from the user. Then your program will compute the tax and tip for the meal. Use your local tax rate when computing the amount of tax owing. Compute the tip as 18 percent of the meal amount (without the tax). The output from your program should include the tax amount, the tip amount, and the grand total for the meal including both the tax and the tip. Format the output so that all of the values are displayed using two decimal places.
@@ -185,12 +185,12 @@ full_name = first_name + " " + last_name
 print(full_name)
 print("Hello, " + full_name.title() + "!")
 ```
-42. Store a person’s name, and include some whitespace 
+42. Store a person’s `name`, and include some whitespace 
 characters at the beginning and end of the name. Make sure you use each 
-character combination, "\t" and "\n", at least once.
+character combination, `\t` and `\n`, at least once.
 Print the name once, so the whitespace around the name is displayed.
-Then print the name using each of the three stripping functions, lstrip(), 
-rstrip(), and strip()
+Then print the name using each of the three stripping functions, `lstrip()`, 
+`rstrip()`, and `strip()`
  
 
 
