@@ -143,7 +143,7 @@ The result of `12` divided by `7` is `1.7143`, correct to `4` decimal places.
 
 30. calculates the average of `x = 3` and `y = 5`, leaving the result in the variable `z`
 
-31. The volume of a sphere with radius r is <s>$\frac{4}{3}πr^3$</s> What is the volume of a sphere with radius `5`
+31. The volume of a sphere What is the volume of a sphere with radius `5` radius r is <p>$\frac{4}{3}πr^3$ </p> 
 
 
 
